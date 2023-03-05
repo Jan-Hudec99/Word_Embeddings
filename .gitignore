@@ -151,3 +151,16 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 *.pickle
+Hotel reviews/glove.6B.50d.txt
+Hotel reviews/glove.6B.300d.txt
+Hotel reviews/glove.6B.200d.txt
+Hotel reviews/glove.6B.100d.txt
+Sentiment analysis/glove.6B.50d.txt
+Sentiment analysis/glove.6B.300d.txt
+Sentiment analysis/glove.6B.200d.txt
+Sentiment analysis/glove.6B.100d.txt
+Fake news/glove.6B.100d.txt
+Fake news/glove.6B.200d.txt
+Fake news/glove.6B.50d.txt
+Fake news/glove.6B.300d.txt
+Fake news/News_dataset_untouched.csv
